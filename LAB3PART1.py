@@ -1,4 +1,4 @@
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 from PIL import Image
 import streamlit as st
 import numpy as np
