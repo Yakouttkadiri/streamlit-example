@@ -3,7 +3,7 @@ pandas
 streamlit
 pyplot
 Image
-numpy as np
+numpy
 matplotlib.pyplot
 seaborn 
 time
