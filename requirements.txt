@@ -1,3 +1,9 @@
 altair
 pandas
 streamlit
+pyplot
+Image
+numpy as np
+matplotlib.pyplot
+seaborn 
+time
