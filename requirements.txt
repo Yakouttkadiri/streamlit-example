@@ -2,6 +2,3 @@ altair
 pandas
 streamlit
 matplotlib
-numpy
-seaborn
-time
